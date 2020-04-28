@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://cdn.discordapp.com/attachments/688361771320475706/704431793041834035/cozies-tone-u22pbOzwLgg-unsplash.jpg");
+    background-size: 100%;
+}
+
+#title {
+    color: green;
+    font-size: 5em;
+    margin-top: 100px;
+}
+
+#info {
+    color: purple;
+    font-size: 2em;
+    margin-top: 250px;
+    margin-bottom: 750px;
+}
+
+input {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 100px;
+}
+
+c {
+    color: brown;
+}
